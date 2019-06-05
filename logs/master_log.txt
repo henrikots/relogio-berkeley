@@ -1,0 +1,136 @@
+Acrescimo por rodada(segundos): 60
+
+RODADA : 1
+Hora Master: 12:05:00
+Diferenca Relogio 0 (segundos): 300
+Diferenca Relogio 1 (segundos): 180
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 160
+Nova Hora Master: 12:07:40
+Ajuste Thread1 0 (segundos): 140
+Ajuste Thread1 1 (segundos): 20
+
+RODADA : 2
+Hora Master: 12:08:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:08:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 3
+Hora Master: 12:09:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:09:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 4
+Hora Master: 12:10:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:10:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 5
+Hora Master: 12:11:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:11:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 6
+Hora Master: 12:12:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:12:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 7
+Hora Master: 12:13:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:13:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 8
+Hora Master: 12:14:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:14:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 9
+Hora Master: 12:15:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:15:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 10
+Hora Master: 12:16:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:16:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 11
+Hora Master: 12:17:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:17:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 12
+Hora Master: 12:18:40
+Diferenca Relogio 0 (segundos): 0
+Diferenca Relogio 1 (segundos): 0
+Diferenca Relogio 2 (segundos): -9223372036854775
+Diferenca Relogio 3 (segundos): -9223372036854775
+Delta (segundos): 0
+Nova Hora Master: 12:18:40
+Ajuste Thread1 0 (segundos): 0
+Ajuste Thread1 1 (segundos): 0
+
+RODADA : 13
+Hora Master: 12:19:40

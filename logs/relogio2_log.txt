@@ -1,0 +1,65 @@
+
+Acrescimo por rodada (segundos): 60
+
+Rodada: 1
+Hora: 12:08:00
+Diferenca Novo Master(segundos): -20
+Nova hora: 12:07:40
+
+Rodada: 2
+Hora: 12:08:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:08:40
+
+Rodada: 3
+Hora: 12:09:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:09:40
+
+Rodada: 4
+Hora: 12:10:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:10:40
+
+Rodada: 5
+Hora: 12:11:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:11:40
+
+Rodada: 6
+Hora: 12:12:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:12:40
+
+Rodada: 7
+Hora: 12:13:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:13:40
+
+Rodada: 8
+Hora: 12:14:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:14:40
+
+Rodada: 9
+Hora: 12:15:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:15:40
+
+Rodada: 10
+Hora: 12:16:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:16:40
+
+Rodada: 11
+Hora: 12:17:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:17:40
+
+Rodada: 12
+Hora: 12:18:40
+Diferenca Novo Master(segundos): 0
+Nova hora: 12:18:40
+
+Rodada: 13
+Hora: 12:19:40

@@ -1,0 +1,27 @@
+
+Acrescimo por rodada (segundos): 60
+
+Rodada: 16
+Hora: 12:16:00
+Diferenca Novo Master(segundos): 840
+Nova hora: 12:30:00
+
+Rodada: 17
+Hora: 12:31:00
+Diferenca Novo Master(segundos): 30
+Nova hora: 12:31:30
+
+Rodada: 18
+Hora: 12:32:30
+Diferenca Novo Master(segundos): 30
+Nova hora: 12:33:00
+
+Rodada: 19
+Hora: 12:34:00
+Diferenca Novo Master(segundos): 30
+Nova hora: 12:34:30
+
+Rodada: 20
+Hora: 12:35:30
+Diferenca Novo Master(segundos): 30
+Nova hora: 12:36:00
