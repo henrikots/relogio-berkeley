@@ -1,5 +1,5 @@
 # relogio-berkeley
-Implementação do Relogio de Berkeley para Sistemas Distribuidos
+Implementação do Relogio de Berkeley para Sistemas Distribuido em java, utilizando Threads e o comunicação com o protocolo UDP.
 
 # Arquivos:
 
